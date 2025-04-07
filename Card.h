@@ -18,5 +18,15 @@ protected:
     std::string suit;
     std::string enhancement = "None";
 
+public:
+    /**
+     * Requires: nothing
+     * Modifies:
+     * Effects: Creates an Card class
+     */
+    Card();
 
+
+
+    
 };

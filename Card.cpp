@@ -8,8 +8,11 @@
  * With this in mind, a card needs chip value, suit, enhancement, and red seal (boolean)
 */
 
-class Card{
+#include "Card.h"
 
+Card::Card(){
+    chipValue = 0;
+    suit = "Spade"
     
 
 };
