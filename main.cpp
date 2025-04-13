@@ -1,0 +1,4 @@
+/*
+Balatro Score Calculator
+
+*/
